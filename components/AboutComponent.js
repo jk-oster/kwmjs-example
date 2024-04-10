@@ -13,6 +13,7 @@ export default class AboutComponent extends KWM_Component {
         <section id="main_content">
             <h1>💡 About us</h1>
             <p>${this.text} <a href="#/contact">Contact us</a></p>
+            <hero-teaser-component></hero-teaser-component>
         </section>
         `
   }
