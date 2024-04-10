@@ -1,3 +1,0 @@
-# kwmjs-example
-
-some text
